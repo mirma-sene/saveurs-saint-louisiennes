@@ -25,3 +25,6 @@ Ce projet consiste à concevoir et développer une landing page de présentation
 
 ## Auteur
 Mirma Sene
+
+## Maquette Figma
+Lien : https://www.figma.com/design/6Xsn978c4GZwBiNRnCe7ST/Landing-Page-Restaurant-%E2%80%93-Maquette?node-id=0-1&t=1EnVOxc30gHpISFz-1
